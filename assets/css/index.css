@@ -1,0 +1,17 @@
+/* reset css */
+html,body {height: 100%;}
+input {font-size: 0.729vw !important;}
+canvas {display: block;}
+body {text-rendering: optimizeLegibility;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;line-height:1.4;color:#333;font-family:arial;font-size: 12px;background:white;}
+input,textarea,select{font-size:12px;font-size:100%;font-family:arial;font-family:inherit;}
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,form{margin:0;}
+h4,h5,h6{font-size:1em;}
+ul,ol{padding-left:0; list-style-type:none;}
+a img{border:0;}
+img{border:0;}
+/* page css */
+.container{width:100vw;height:100vh;display:flex;align-items:center;justify-content:center;flex-direction:column;flex-wrap:wrap}
+.container h1.name{font-size:80px;font-weight:bold}
+.container .project-container{margin-top:10px}
+.container .project-container a{color:#000;font-size:20px}
+.container .project-container a:not(:first-child){margin-left:10px}
