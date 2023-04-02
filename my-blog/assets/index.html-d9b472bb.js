@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-04f7c16d","path":"/tags/Http%20Status%20Code/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{t as data};
