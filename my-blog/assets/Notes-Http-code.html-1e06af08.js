@@ -39,4 +39,4 @@ import{_ as n,p as e,q as s,Y as a}from"./framework-e1bed10d.js";const i={},d=a(
 <span class="token number">503</span>    Service Unavailable    由于超载或系统维护，服务器暂时的无法处理客户端的请求。延时的长度可包含在服务器的Retry-After头信息中
 <span class="token number">504</span>    Gateway Time-out    充当网关或代理的服务器，未及时从远端服务器获取请求
 <span class="token number">505</span>    HTTP Version not supported    服务器不支持请求的HTTP协议的版本，无法完成处理
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,11),l=[d];function r(t,c){return e(),s("div",null,l)}const o=n(i,[["render",r],["__file","http-code.html.vue"]]);export{o as default};
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,11),l=[d];function r(t,c){return e(),s("div",null,l)}const o=n(i,[["render",r],["__file","Notes-Http-code.html.vue"]]);export{o as default};
